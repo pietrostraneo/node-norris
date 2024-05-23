@@ -11,5 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "nodemon": "^3.1.0"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "norrisDb.json"
+    ]
   }
 }
