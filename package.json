@@ -1,0 +1,15 @@
+{
+  "name": "node-norris",
+  "version": "1.0.0",
+  "description": "Norris API",
+  "main": "norris.js",
+  "scripts": {
+    "dev": "nodemon norris.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
